@@ -1,4 +1,5 @@
 **Overview of the Sentiment Analysis with NLP**
+
 🧠 Objective:
 The objective of this project is to perform sentiment analysis using Natural Language Processing (NLP) techniques. It involves classifying text data (such as product reviews or tweets) into sentiment categories such as positive, negative, or neutral.
 
