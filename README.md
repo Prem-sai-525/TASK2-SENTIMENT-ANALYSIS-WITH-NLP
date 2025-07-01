@@ -1,9 +1,9 @@
 **Overview of the Sentiment Analysis with NLP**
 
-🧠 Objective:
+ Objective:
 The objective of this project is to perform sentiment analysis using Natural Language Processing (NLP) techniques. It involves classifying text data (such as product reviews or tweets) into sentiment categories such as positive, negative, or neutral.
 
-🧾 Core Components:
+ Core Components:
 1. Data Handling
 The dataset (likely a CSV file with text and sentiment labels) is loaded and explored.
 
@@ -54,7 +54,7 @@ The model is used to predict sentiment on new/unseen text.
 
 Allows classification of any text input as Positive or Negative.
 
-⚙️ Implementation Details
+Implementation Details
 Built using Python with libraries like:
 
 pandas, numpy for data manipulation
